@@ -1,0 +1,25 @@
+.home-container{
+    width: 100%;
+    padding: 50px;
+}
+
+.work-card{
+    background-color: grey;
+    padding: 30px;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    border-radius: 5px;
+}
+
+.card-container{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
